@@ -1,6 +1,8 @@
 # Linea ENS-Claimer and linea surge registrator
 ## Price 150$
 
+<img width="501" alt="Screenshot 2024-08-27 at 21 13 52" src="https://github.com/user-attachments/assets/39a86a88-f136-4f77-9da1-6d944e6a7819">
+
 ## 🔗 Links
 [![Telegram channel](https://img.shields.io/endpoint?url=https://runkit.io/damiankrawczyk/telegram-badge/branches/master?url=https://t.me/web3sftwr)](https://t.me/web3sftwr)
 
