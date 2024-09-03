@@ -10,7 +10,8 @@
 
 💰 DONATION EVM ADDRESS: 0x8cC0B0c49286b804Db02bd3a9412ec2bafF19d53
 
-🤝 ASK TO BUY: https://t.me/+Ih_p29S894kzNjcy
+🤝 ASK TO BUY: https://t.me/web3sftrw
+🤝 Support chat: https://t.me/+Ih_p29S894kzNjcy
 
 ## Functionality
 - Claim ens domain from random list
